@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+.env
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+pytest_cache/
+
+# Docker
+*.pid
+
+# Imagens/teste temporárias
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+
+# Outros
+.DS_Store
+Thumbs.db
